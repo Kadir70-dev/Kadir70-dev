@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [building saas auditing project seahti](https://sehati.hikmahtech.in/)
 
-- 🌱 I’m currently learning **Golang,Rust,Deep learnig**
+- 🌱 I’m currently learning **FluttermGolang,Rust,Deep learnig**
 
 - 👯 I’m looking to collaborate on **Crm Products for internal working**
 
