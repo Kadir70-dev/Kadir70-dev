@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Kadir Mukadam</h1>
 <h3 align="center">Full-Stack Developer | DevOps Engineer | AI-Driven Product Builder</h3>
 
-- 🔭 Currently building **scalable SaaS & AI-enabled products**      
+- 🔭 Currently building **scalable SaaS & AI-enabled products**         
 
 - 🌱 Exploring **DevOps automation, Golang, Rust, Flutter**, and **Applied AI/ML for production systems**
 
