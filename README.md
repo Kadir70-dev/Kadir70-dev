@@ -1,42 +1,46 @@
-<h1 align="center">Hi 👋, I'm Abdul Kadir Mukadam</h1>                         
-<h3 align="center">Full-Stack Developer | DevOps Engineer | AI-Driven Product Builder</h3>                   
+<h1 align="center">Hi 👋, I'm Abdul Kadir Mukadam</h1>
+<h3 align="center">Cybersecurity Sales Engineer / Pre-Sales | Solutions Engineer | API Security • IAM • SIEM Fundamentals</h3>
 
-- 🔭 Currently building **scalable SaaS & AI-enabled products**                      
-
-- 🌱 Exploring **DevOps automation, Golang, Rust, Flutter**, and **Applied AI/ML for production systems**
-
-- 👯 Open to collaborating on **Full-Stack SaaS platforms**, **internal CRMs**, and **AI-powered business tools**
-
-- 🤝 Interested in building **AI/ML-driven products** for **finance, operations, and CRM intelligence**
-
-- 👨‍💻 Projects & experiments: **[GitHub](https://github.com/kadirab)**
-
-- 💬 Ask me about **Backend Systems, APIs, DevOps, Cloud Architecture, AI Product Integration**
-
-- 📫 Reach me at **kadirab1999@gmail.com**
+- 📍 Based in **Dubai, UAE**
+- 🧩 I help teams with **technical discovery, demos, PoCs, and solution positioning** for security-aligned SaaS & cloud environments
+- 🔭 Currently building **demo-ready security projects** (RBAC, secure APIs, monitoring dashboards)
+- 🌱 Learning focus: **IAM (SSO/MFA), API Security (OWASP), SIEM/SOC fundamentals**, cloud security basics
+- 🤝 Open to roles: **Cybersecurity Sales Engineer / Pre-Sales Engineer / Solutions Engineer**
+- 📫 Reach me at: **kadirab1999@gmail.com**
 
 ---
 
-## 🚀 Full-Stack & DevOps Focus
+## ✅ What I bring to Cybersecurity Pre-Sales
 
-I design and build **end-to-end production systems** covering:
-
-- ⚙️ **Backend Development** – Node.js, NestJS, Python, REST & GraphQL APIs  
-- 🖥️ **Frontend Development** – React, Next.js, modern UI integrations  
-- ☁️ **Cloud & DevOps** – Docker, Kubernetes, AWS, CI/CD, Nginx, monitoring  
-- 🧠 **AI/ML Product Integration** – analytics, automation, predictive systems  
-- 📈 **Scalable System Design** – performance, reliability, observability
+- 🎯 **Discovery & Requirement Gathering** – translate customer pain points into technical solutions  
+- 🎥 **Demos & Technical Walkthroughs** – explain complex topics in simple business language  
+- 🧪 **PoC Support** – scope, success criteria, and validation planning  
+- 🧾 **RFP/RFI & Proposal Support** – technical inputs, assumptions, deployment approach  
+- 🔐 **Security Fundamentals** – IAM/SSO, MFA, RBAC, OWASP awareness, SIEM basics  
+- ☁️ **Cloud + Deployments** – Docker, AWS basics, CI/CD for demo environments  
+- 🔗 **API Integrations** – REST APIs, Swagger/OpenAPI, secure authentication (JWT/RBAC)
 
 ---
 
-## 🤖 AI / ML Product Work
+## 🚀 Featured Demo Projects (Portfolio)
 
-I focus on **practical AI**, not research-heavy models:
+✅ **CyberShield 360 (Security Dashboard Concept)**
+- Threat monitoring visibility, alerts dashboard, suspicious login tracking
 
-- 📊 **Predictive analytics** for business & CRM insights  
-- 🧠 **AI-assisted automation** for SaaS workflows  
-- 🔍 **Data processing & intelligence layers** for decision-making  
-- 🔗 Integrating AI services into **real production SaaS platforms**
+✅ **Secure RBAC + JWT Admin Panel**
+- Role-based access control, protected routes, audit logs
+
+✅ **API Security Utilities**
+- Rate limiting, input validation patterns, secure API docs (Swagger/OpenAPI)
+
+---
+
+## 🧰 Tech Stack (Hands-on)
+
+- **Backend:** Node.js, NestJS, REST APIs, Swagger/OpenAPI  
+- **Cloud/DevOps:** Docker, AWS, Linux, GitHub Actions  
+- **Security (Fundamentals):** IAM/SSO, MFA, RBAC, OWASP, SIEM/SOC basics  
+- **Languages:** JavaScript, TypeScript, Python
 
 ---
 
@@ -46,24 +50,4 @@ I focus on **practical AI**, not research-heavy models:
   <a href="https://linkedin.com/in/abdul-kadir-mukadam-63957422b" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdul Kadir Mukadam" height="30" width="40" />
   </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
 </p>
