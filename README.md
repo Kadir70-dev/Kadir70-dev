@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Kadir Mukadam</h1>
-<h3 align="center">Cybersecurity Sales Engineer / Pre-Sales | Solutions Engineer | API Security • IAM • SIEM Fundamentals</h3>
+<h3 align="center">Cybersecurity Sales Engineer / Pre-Sales | Solutions Engineer | API Security • IAM • SIEM Fundamentals</h3> 
     
 - 📍 Based in **Dubai, UAE**       
 - 🧩 I help teams with **technical discovery, demos, PoCs, and solution positioning** for security-aligned SaaS & cloud environments
