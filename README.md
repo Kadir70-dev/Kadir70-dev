@@ -1,46 +1,55 @@
 <h1 align="center">Hi 👋, I'm Abdul Kadir Mukadam</h1>
-<h3 align="center">Cybersecurity Sales Engineer / Pre-Sales | Solutions Engineer | API Security • IAM • SIEM Fundamentals</h3>  
-    
-- 📍 Based in **Dubai, UAE**       
-- 🧩 I help teams with **technical discovery, demos, PoCs, and solution positioning** for security-aligned SaaS & cloud environments
-- 🔭 Currently building **demo-ready security projects** (RBAC, secure APIs, monitoring dashboards)
-- 🌱 Learning focus: **IAM (SSO/MFA), API Security (OWASP), SIEM/SOC fundamentals**, cloud security basics
-- 🤝 Open to roles: **Cybersecurity Sales Engineer / Pre-Sales Engineer / Solutions Engineer**
+<h3 align="center">Backend Engineer | Node.js | REST APIs | Microservices</h3>
+
+- 📍 Based in **Dubai, UAE**
+- 💻 I build scalable backend systems using **Node.js, Express, and NestJS**
+- 🔐 Focused on **API security, authentication (JWT/RBAC), and performance optimization**
+- ☁️ Experience with **Docker, AWS (EC2), CI/CD basics**
 - 📫 Reach me at: **kadirab1999@gmail.com**
 
 ---
 
-## ✅ What I bring to Cybersecurity Pre-Sales
+## 🚀 Backend Expertise
 
-- 🎯 **Discovery & Requirement Gathering** – translate customer pain points into technical solutions  
-- 🎥 **Demos & Technical Walkthroughs** – explain complex topics in simple business language  
-- 🧪 **PoC Support** – scope, success criteria, and validation planning  
-- 🧾 **RFP/RFI & Proposal Support** – technical inputs, assumptions, deployment approach  
-- 🔐 **Security Fundamentals** – IAM/SSO, MFA, RBAC, OWASP awareness, SIEM basics  
-- ☁️ **Cloud + Deployments** – Docker, AWS basics, CI/CD for demo environments  
-- 🔗 **API Integrations** – REST APIs, Swagger/OpenAPI, secure authentication (JWT/RBAC)
-
----
-
-## 🚀 Featured Demo Projects (Portfolio)
-
-✅ **CyberShield 360 (Security Dashboard Concept)**
-- Threat monitoring visibility, alerts dashboard, suspicious login tracking
-
-✅ **Secure RBAC + JWT Admin Panel**
-- Role-based access control, protected routes, audit logs
-
-✅ **API Security Utilities**
-- Rate limiting, input validation patterns, secure API docs (Swagger/OpenAPI)
+- 🏗️ **RESTful API Design & Development**
+- 🔄 **Microservices Architecture**
+- 🗄️ **Database Design (MongoDB, MySQL, PostgreSQL)**
+- ⚡ **Caching with Redis**
+- 🔐 **Authentication & Authorization (JWT, RBAC)**
+- 🐳 **Dockerized Deployments**
+- 🧪 **Unit Testing (Jest, Mocha)**
 
 ---
 
-## 🧰 Tech Stack (Hands-on)
+## 🚀 Featured Backend Projects
 
-- **Backend:** Node.js, NestJS, REST APIs, Swagger/OpenAPI  
-- **Cloud/DevOps:** Docker, AWS, Linux, GitHub Actions  
-- **Security (Fundamentals):** IAM/SSO, MFA, RBAC, OWASP, SIEM/SOC basics  
+### 📘 Book Review API
+- REST API with authentication, CRUD operations, and MongoDB integration
+- JWT-based access control and input validation
+
+### 🔐 Secure RBAC + JWT Admin Panel
+- Role-based access control system
+- Protected routes and audit logging
+- Modular backend structure
+
+### 💬 Real-Time Chat Application
+- WebSocket-based messaging backend
+- Secure authentication and session handling
+
+### 🛒 E-Commerce Backend
+- Order processing and payment flow integration
+- Secure checkout logic and data validation
+
+---
+
+## 🧰 Tech Stack
+
+- **Backend:** Node.js, Express.js, NestJS
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Caching:** Redis
+- **DevOps:** Docker, AWS (EC2), GitHub Actions
 - **Languages:** JavaScript, TypeScript, Python
+- **API Tools:** Postman, Swagger (OpenAPI)
 
 ---
 
