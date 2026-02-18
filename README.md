@@ -2,7 +2,7 @@
 <h3 align="center">Backend Engineer | Node.js | REST APIs | Microservices</h3>    
  
 - 📍 Based in **Dubai, UAE**
-- 💻 I build scalable backend systems using **Node.js, Express, and NestJS**
+- 💻 I build scalable backend systems using **Node.js, Express, and NestJS** 
 - 🔐 Focused on **API security, authentication (JWT/RBAC), and performance optimization** 
 - ☁️ Experience with **Docker, AWS (EC2), CI/CD basics** 
 - 📫 Reach me at: **kadirab1999@gmail.com**
