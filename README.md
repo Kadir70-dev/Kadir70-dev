@@ -7,7 +7,7 @@
 - ☁️ Experience with **Docker, AWS (EC2), CI/CD basics** 
 - 📫 Reach me at: **kadirab1999@gmail.com**
   
----
+---   
    
 ## 🚀 Backend Expertise
 
