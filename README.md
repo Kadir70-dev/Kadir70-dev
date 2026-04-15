@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Abdul Kadir Mukadam</h1>                                    
+ <h1 align="center">Hi 👋, I'm Abdul Kadir Mukadam</h1>                                       
 <h3 align="center">Backend Engineer | Node.js | REST APIs | Microservices</h3>      
         
 - 📍 Based in **Dubai, UAE**   
