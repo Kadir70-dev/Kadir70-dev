@@ -1,62 +1,127 @@
- <h1 align="center">Hi 👋, I'm Abdul Kadir Mukadam</h1>                                       
-<h3 align="center">Backend Engineer | Node.js | REST APIs | Microservices</h3>        
-             
-- 📍 Based in **Dubai, UAE**   
-- 💻 I build scalable backend systems using **Node.js, Express, and NestJS** 
-- 🔐 Focused on **API security, authentication (JWT/RBAC), and performance optimization**   
-- ☁️ Experience with **Docker, AWS (EC2), CI/CD basics** 
-- 📫 Reach me at: **kadirab1999@gmail.com**
-      
----   
-   
-## 🚀 Backend Expertise
+<h1 align="center">Hi 👋, I'm Abdul Kadir Mukadam</h1>
+<h3 align="center">MLOps Engineer | Backend Systems | Real-Time ML Pipelines</h3>
 
-- 🏗️ **RESTful API Design & Development**
-- 🔄 **Microservices Architecture**
-- 🗄️ **Database Design (MongoDB, MySQL, PostgreSQL)**
-- ⚡ **Caching with Redis**
-- 🔐 **Authentication & Authorization (JWT, RBAC)**
-- 🐳 **Dockerized Deployments**
-- 🧪 **Unit Testing (Jest, Mocha)**
+<p align="center">
+  <img src="https://img.shields.io/badge/MLOps-Production%20Ready-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Expert-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Systems-orange?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 Featured Backend Projects
+## 📍 About Me
 
-### 📘 Book Review API
-- REST API with authentication, CRUD operations, and MongoDB integration
-- JWT-based access control and input validation
+* 📍 Based in **Dubai, UAE**
+* ⚙️ I build **production-grade ML systems** with real-time data pipelines
+* 💻 Strong in **Backend Engineering (Node.js, Microservices, Distributed Systems)**
+* 🤖 Focused on **MLOps, ML Systems, AI Infrastructure**
+* ☁️ Experience with **Docker, Kubernetes, AWS, CI/CD**
+* 📫 Email: **[kadirab1999@gmail.com](mailto:kadirab1999@gmail.com)**
 
-### 🔐 Secure RBAC + JWT Admin Panel
-- Role-based access control system
-- Protected routes and audit logging
-- Modular backend structure
+---
 
-### 💬 Real-Time Chat Application
-- WebSocket-based messaging backend
-- Secure authentication and session handling
+## 🚀 Core Expertise
 
-### 🛒 E-Commerce Backend
-- Order processing and payment flow integration
-- Secure checkout logic and data validation
+* 🔄 End-to-End ML Pipelines (Data → Training → Deployment)
+* 📡 Real-Time Streaming Systems (Kafka, WebSockets)
+* ⚙️ Model Deployment (FastAPI, Docker, Kubernetes)
+* 📊 ML Experiment Tracking (MLflow)
+* 🔁 Automated Pipelines (Airflow)
+* 📈 Monitoring (Prometheus, Grafana)
+* 🔐 Secure APIs (JWT, RBAC, Rate Limiting)
+* ⚡ High-performance systems design
+
+---
+
+## 🚀 Featured MLOps Projects
+
+### 🤖 AI Trading System (Production-Grade)
+
+* Real-time market data ingestion using WebSockets + Kafka
+* ML prediction engine (XGBoost / LSTM)
+* Risk management + automated trade execution
+* FastAPI-based inference service
+* Docker + Kubernetes deployment
+* Monitoring via Prometheus & Grafana
+* CI/CD using GitHub Actions
+
+---
+
+### 📊 Real-Time ML Pipeline
+
+* Streaming pipeline using Kafka
+* Low-latency ML inference system
+* Redis caching for performance optimization
+
+---
+
+### 🔁 ML Pipeline with Airflow + MLflow
+
+* Automated training & retraining workflows
+* Experiment tracking & model versioning
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Backend:** Node.js, Express.js, NestJS
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Caching:** Redis
-- **DevOps:** Docker, AWS (EC2), GitHub Actions
-- **Languages:** JavaScript, TypeScript, Python
-- **API Tools:** Postman, Swagger (OpenAPI)
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=golang" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+</p>
+
+### ⚙️ Backend & ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
+</p>
+
+### 📡 Streaming & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40"/>
+</p>
 
 ---
 
-## 🌐 Connect with me
+## 📊 What Makes Me Different
+
+* 🧠 Backend + MLOps hybrid engineer
+* ⚡ Focus on real-world production systems (not tutorials)
+* 🔥 Strong system design + scalability mindset
+* 🚀 Building high-impact ML infrastructure projects
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/abdul-kadir-mukadam-63957422b" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdul Kadir Mukadam" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 Open to Remote Opportunities (USA / Europe) | MLOps / ML Systems / Backend
 </p>
